@@ -1,0 +1,14 @@
+/Users/mrcarrot/RiderProjects/idz1kpo/idz1kpo/bin/Debug/net9.0/idz1kpo
+/Users/mrcarrot/RiderProjects/idz1kpo/idz1kpo/bin/Debug/net9.0/idz1kpo.deps.json
+/Users/mrcarrot/RiderProjects/idz1kpo/idz1kpo/bin/Debug/net9.0/idz1kpo.runtimeconfig.json
+/Users/mrcarrot/RiderProjects/idz1kpo/idz1kpo/bin/Debug/net9.0/idz1kpo.dll
+/Users/mrcarrot/RiderProjects/idz1kpo/idz1kpo/bin/Debug/net9.0/idz1kpo.pdb
+/Users/mrcarrot/RiderProjects/idz1kpo/idz1kpo/obj/Debug/net9.0/idz1kpo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrcarrot/RiderProjects/idz1kpo/idz1kpo/obj/Debug/net9.0/idz1kpo.AssemblyInfoInputs.cache
+/Users/mrcarrot/RiderProjects/idz1kpo/idz1kpo/obj/Debug/net9.0/idz1kpo.AssemblyInfo.cs
+/Users/mrcarrot/RiderProjects/idz1kpo/idz1kpo/obj/Debug/net9.0/idz1kpo.csproj.CoreCompileInputs.cache
+/Users/mrcarrot/RiderProjects/idz1kpo/idz1kpo/obj/Debug/net9.0/idz1kpo.dll
+/Users/mrcarrot/RiderProjects/idz1kpo/idz1kpo/obj/Debug/net9.0/refint/idz1kpo.dll
+/Users/mrcarrot/RiderProjects/idz1kpo/idz1kpo/obj/Debug/net9.0/idz1kpo.pdb
+/Users/mrcarrot/RiderProjects/idz1kpo/idz1kpo/obj/Debug/net9.0/idz1kpo.genruntimeconfig.cache
+/Users/mrcarrot/RiderProjects/idz1kpo/idz1kpo/obj/Debug/net9.0/ref/idz1kpo.dll
